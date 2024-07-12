@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <version>2024.07.01.1</version>
-    <url>\\192.168.1.9\update\khambenh\update.zip</url>
+    <url>https://github.com/smallCat719/phucnguyen3/blob/main/update.zip</url>
     <changelog></changelog>
     <mandatory>true</mandatory>
 </item>
